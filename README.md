@@ -1,1 +1,2 @@
-# Sample with app using Rest and Angular Js
+# Sample with app using Rest API and Angular Js
+# Still work in progress
